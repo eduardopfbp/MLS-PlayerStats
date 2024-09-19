@@ -397,7 +397,7 @@ Sem,Dia,Data,Horário,Em casa,xG,Resultado,xG,Visitante,Público,Local,Árbitro,
 31,sáb,2024-09-14,19:30,Atlanta Utd,0.5,0–2,1.1,Nashville,,Mercedes-Benz Stadium,Armando Villarreal,Relatório da Partida,,/pt/partidas/4dd80729/Atlanta-United-Nashville-SC-2024Setembro14-Major-League-Soccer
 31,sáb,2024-09-14,19:30,Inter Miami,1.1,3–1,1.9,Philadelphia,,Chase Stadium,Boiko Serhii,Relatório da Partida,,/pt/partidas/9b54f115/Inter-Miami-Philadelphia-Union-2024Setembro14-Major-League-Soccer
 31,sáb,2024-09-14,19:30,FC Cincinnati,0.3,0–0,1.3,Crew,,TQL Stadium,Joe Dickerson,Relatório da Partida,,/pt/partidas/9f5b80d7/FC-Cincinnati-Columbus-Crew-2024Setembro14-Major-League-Soccer
-31,sáb,2024-09-14,19:30,CF Montréal,1.4,2–1,1.0,Charlotte,,Stade Saputo,Rubiel Vazquez,Relatório da Partida,,/pt/partidas/c3fe48e7/CF-Montreal-Charlotte-FC-2024Setembro14-Major-League-Soccer
+31,sáb,2024-09-14,19:30,CF Montréal,1.3,2–1,1.2,Charlotte,,Stade Saputo,Rubiel Vazquez,Relatório da Partida,,/pt/partidas/c3fe48e7/CF-Montreal-Charlotte-FC-2024Setembro14-Major-League-Soccer
 31,sáb,2024-09-14,19:30,Toronto FC,1.1,2–1,3.3,Austin,,BMO Field,Chris Penso,Relatório da Partida,,/pt/partidas/f6ee0cae/Toronto-FC-Austin-FC-2024Setembro14-Major-League-Soccer
 31,sáb,2024-09-14,19:30,Orlando City,2.1,3–0,1.2,NE Revolution,,Inter&Co Stadium,Tori Penso,Relatório da Partida,,/pt/partidas/ffb3c4ec/Orlando-City-New-England-Revolution-2024Setembro14-Major-League-Soccer
 31,dom,2024-09-15,16:15,Seattle,2.9,2–0,0.7,Sporting KC,31.898,Lumen Field,Drew Fischer,Relatório da Partida,,/pt/partidas/a5937963/Seattle-Sounders-FC-Sporting-Kansas-City-2024Setembro15-Major-League-Soccer
@@ -407,3 +407,16 @@ Sem,Dia,Data,Horário,Em casa,xG,Resultado,xG,Visitante,Público,Local,Árbitro,
 31,sáb,2024-09-14,19:30,Dynamo FC,1.5,4–1,0.8,RSL,,Shell Energy Stadium,Jon Freemon,Relatório da Partida,,/pt/partidas/e0a8e36f/Houston-Dynamo-Real-Salt-Lake-2024Setembro14-Major-League-Soccer
 31,sáb,2024-09-14,19:30,LA Galaxy,2.4,4–2,1.6,LAFC,,Dignity Health Sports Park,Ted Unkel,Relatório da Partida,,/pt/partidas/e7b27721/El-Trafico-LA-Galaxy-Los-Angeles-FC-2024Setembro14-Major-League-Soccer
 31,sáb,2024-09-14,19:30,Rapids,1.3,2–1,2.1,Portland Timbers,16.038,Dick's Sporting Goods Park,Filip Dujic,Relatório da Partida,,/pt/partidas/e938a91e/Colorado-Rapids-Portland-Timbers-2024Setembro14-Major-League-Soccer
+32,qua,2024-09-18,19:30,NYCFC,2.9,1–5,1.7,Philadelphia,19.153,Yankee Stadium,Pierre-Luc Lauziere,Relatório da Partida,,/pt/partidas/05c5af5a/New-York-City-FC-Philadelphia-Union-2024Setembro18-Major-League-Soccer
+32,qua,2024-09-18,19:30,NE Revolution,1.3,2–2,0.4,CF Montréal,18.019,Gillette Stadium,Elijio Arreguin,Relatório da Partida,,/pt/partidas/785b7627/New-England-Revolution-CF-Montreal-2024Setembro18-Major-League-Soccer
+32,qua,2024-09-18,19:30,Atlanta Utd,1.6,2–2,1.8,Inter Miami,,Mercedes-Benz Stadium,Rosendo Mendoza,Relatório da Partida,,/pt/partidas/ae626038/Atlanta-United-Inter-Miami-2024Setembro18-Major-League-Soccer
+32,qua,2024-09-18,19:30,Toronto FC,0.9,0–2,1.1,Crew,21.355,BMO Field,Guido Gonzalez Jr.,Relatório da Partida,,/pt/partidas/d35b397d/Toronto-FC-Columbus-Crew-2024Setembro18-Major-League-Soccer
+32,qua,2024-09-18,19:30,Minnesota Utd,1.7,1–2,1.2,FC Cincinnati,19.649,Allianz Field,Drew Fischer,Relatório da Partida,,/pt/partidas/21723188/Minnesota-United-FC-Cincinnati-2024Setembro18-Major-League-Soccer
+32,qua,2024-09-18,19:30,RSL,2.1,3–2,2.1,FC Dallas,19.436,America First Field,Sergii Demianchuk,Relatório da Partida,,/pt/partidas/33e7a1b2/Real-Salt-Lake-FC-Dallas-2024Setembro18-Major-League-Soccer
+32,qua,2024-09-18,19:30,Seattle,1.2,2–2,1.4,SJ Earthquakes,29.326,Lumen Field,Victor Rivas,Relatório da Partida,,/pt/partidas/4263fc6f/Seattle-Sounders-FC-San-Jose-Earthquakes-2024Setembro18-Major-League-Soccer
+32,qua,2024-09-18,19:30,Portland Timbers,3.0,4–2,2.2,LA Galaxy,,Providence Park,Tim Ford,Relatório da Partida,,/pt/partidas/470ce725/Portland-Timbers-LA-Galaxy-2024Setembro18-Major-League-Soccer
+32,qua,2024-09-18,19:30,Nashville,0.3,1–0,0.6,Fire,,Geodis Park,Rubiel Vazquez,Relatório da Partida,,/pt/partidas/5ccf3153/Nashville-SC-Chicago-Fire-2024Setembro18-Major-League-Soccer
+32,qua,2024-09-18,19:30,LAFC,1.0,1–1,0.6,Austin,22.153,BMO Stadium,Allen Chapman,Relatório da Partida,,/pt/partidas/7a6a8af1/Los-Angeles-FC-Austin-FC-2024Setembro18-Major-League-Soccer
+32,qua,2024-09-18,19:30,Sporting KC,3.0,4–1,0.6,Rapids,14.826,Children's Mercy Park,Fotis Bazakos,Relatório da Partida,,/pt/partidas/833399a2/Sporting-Kansas-City-Colorado-Rapids-2024Setembro18-Major-League-Soccer
+32,qua,2024-09-18,19:30,Dynamo FC,1.2,1–1,1.1,Vancouver W'caps,14.282,Shell Energy Stadium,Alexis Da Silva,Relatório da Partida,,/pt/partidas/c910714a/Houston-Dynamo-Vancouver-Whitecaps-FC-2024Setembro18-Major-League-Soccer
+32,qua,2024-09-18,20:15,Orlando City,1.3,2–0,0.2,Charlotte,22.902,Inter&Co Stadium,Marcos de Oliveira,Relatório da Partida,,/pt/partidas/d3dd9a7a/Orlando-City-Charlotte-FC-2024Setembro18-Major-League-Soccer

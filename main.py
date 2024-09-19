@@ -16,7 +16,7 @@ prefixo = "https://fbref.com"
 dataframes = [] 
 
 # Data de início para extração
-data_inicio = datetime.strptime('2024-02-21', '%Y-%m-%d')
+data_inicio = datetime.strptime('2024-09-18', '%Y-%m-%d')
 
 # Número máximo de tentativas falhadas
 max_falhas = 2
@@ -151,6 +151,6 @@ if dataframes:
     print(df_final)
 
     # Salva o DataFrame final em um arquivo Excel
-    df_final.to_csv('C://Users//eduar//Desktop//DEV//Football//MLS//database_novo.csv', index=False)
+    df_final.to_csv('C://Users//eduar//Desktop//DEV//Football//MLS//database_temp.csv', index=False)
 else:
     print("Nenhum DataFrame para concatenar.")
